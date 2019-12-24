@@ -1,0 +1,149 @@
+,Code,Groups,Description
+0,Code,Groups,Description
+1,47,"corp, fin",Accounting
+2,94,"man, tech, tran",Airlines/Aviation
+3,120,"leg, org",Alternative Dispute Resolution
+4,125,hlth,Alternative Medicine
+5,127,"art, med",Animation
+6,19,good,Apparel & Fashion
+7,50,cons,Architecture & Planning
+8,111,"art, med, rec",Arts and Crafts
+9,53,man,Automotive
+10,52,"gov, man",Aviation & Aerospace
+11,41,fin,Banking
+12,12,"gov, hlth, tech",Biotechnology
+13,36,"med, rec",Broadcast Media
+14,49,cons,Building Materials
+15,138,"corp, man",Business Supplies and Equipment
+16,129,fin,Capital Markets
+17,54,man,Chemicals
+18,90,"org, serv",Civic & Social Organization
+19,51,"cons, gov",Civil Engineering
+20,128,"cons, corp, fin",Commercial Real Estate
+21,118,tech,Computer & Network Security
+22,109,"med, rec",Computer Games
+23,3,tech,Computer Hardware
+24,5,tech,Computer Networking
+25,4,tech,Computer Software
+26,48,cons,Construction
+27,24,"good, man",Consumer Electronics
+28,25,"good, man",Consumer Goods
+29,91,"org, serv",Consumer Services
+30,18,good,Cosmetics
+31,65,agr,Dairy
+32,1,"gov, tech",Defense & Space
+33,99,"art, med",Design
+34,69,edu,Education Management
+35,132,"edu, org",E-Learning
+36,112,"good, man",Electrical/Electronic Manufacturing
+37,28,"med, rec",Entertainment
+38,86,"org, serv",Environmental Services
+39,110,"corp, rec, serv",Events Services
+40,76,gov,Executive Office
+41,122,"corp, serv",Facilities Services
+42,63,agr,Farming
+43,43,fin,Financial Services
+44,38,"art, med, rec",Fine Art
+45,66,agr,Fishery
+46,34,"rec, serv",Food & Beverages
+47,23,"good, man, serv",Food Production
+48,101,org,Fund-Raising
+49,26,"good, man",Furniture
+50,29,rec,Gambling & Casinos
+51,145,"cons, man","Glass, Ceramics & Concrete"
+52,75,gov,Government Administration
+53,148,gov,Government Relations
+54,140,"art, med",Graphic Design
+55,124,"hlth, rec","Health, Wellness and Fitness"
+56,68,edu,Higher Education
+57,14,hlth,Hospital & Health Care
+58,31,"rec, serv, tran",Hospitality
+59,137,corp,Human Resources
+60,134,"corp, good, tran",Import and Export
+61,88,"org, serv",Individual & Family Services
+62,147,"cons, man",Industrial Automation
+63,84,"med, serv",Information Services
+64,96,tech,Information Technology and Services
+65,42,fin,Insurance
+66,74,gov,International Affairs
+67,141,"gov, org, tran",International Trade and Development
+68,6,tech,Internet
+69,45,fin,Investment Banking
+70,46,fin,Investment Management
+71,73,"gov, leg",Judiciary
+72,77,"gov, leg",Law Enforcement
+73,9,leg,Law Practice
+74,10,leg,Legal Services
+75,72,"gov, leg",Legislative Office
+76,30,"rec, serv, tran","Leisure, Travel & Tourism"
+77,85,"med, rec, serv",Libraries
+78,116,"corp, tran",Logistics and Supply Chain
+79,143,good,Luxury Goods & Jewelry
+80,55,man,Machinery
+81,11,corp,Management Consulting
+82,95,tran,Maritime
+83,97,corp,Market Research
+84,80,"corp, med",Marketing and Advertising
+85,135,"cons, gov, man",Mechanical or Industrial Engineering
+86,126,"med, rec",Media Production
+87,17,hlth,Medical Devices
+88,13,hlth,Medical Practice
+89,139,hlth,Mental Health Care
+90,71,gov,Military
+91,56,man,Mining & Metals
+92,35,"art, med, rec",Motion Pictures and Film
+93,37,"art, med, rec",Museums and Institutions
+94,115,"art, rec",Music
+95,114,"gov, man, tech",Nanotechnology
+96,81,"med, rec",Newspapers
+97,100,org,Non-Profit Organization Management
+98,57,man,Oil & Energy
+99,113,med,Online Media
+100,123,corp,Outsourcing/Offshoring
+101,87,"serv, tran",Package/Freight Delivery
+102,146,"good, man",Packaging and Containers
+103,61,man,Paper & Forest Products
+104,39,"art, med, rec",Performing Arts
+105,15,"hlth, tech",Pharmaceuticals
+106,131,org,Philanthropy
+107,136,"art, med, rec",Photography
+108,117,man,Plastics
+109,107,"gov, org",Political Organization
+110,67,edu,Primary/Secondary Education
+111,83,"med, rec",Printing
+112,105,corp,Professional Training & Coaching
+113,102,"corp, org",Program Development
+114,79,gov,Public Policy
+115,98,corp,Public Relations and Communications
+116,78,gov,Public Safety
+117,82,"med, rec",Publishing
+118,62,man,Railroad Manufacture
+119,64,agr,Ranching
+120,44,"cons, fin, good",Real Estate
+121,40,"rec, serv",Recreational Facilities and Services
+122,89,"org, serv",Religious Institutions
+123,144,"gov, man, org",Renewables & Environment
+124,70,"edu, gov",Research
+125,32,"rec, serv",Restaurants
+126,27,"good, man",Retail
+127,121,"corp, org, serv",Security and Investigations
+128,7,tech,Semiconductors
+129,58,man,Shipbuilding
+130,20,"good, rec",Sporting Goods
+131,33,rec,Sports
+132,104,corp,Staffing and Recruiting
+133,22,good,Supermarkets
+134,8,"gov, tech",Telecommunications
+135,60,man,Textiles
+136,130,"gov, org",Think Tanks
+137,21,good,Tobacco
+138,108,"corp, gov, serv",Translation and Localization
+139,92,tran,Transportation/Trucking/Railroad
+140,59,man,Utilities
+141,106,"fin, tech",Venture Capital & Private Equity
+142,16,hlth,Veterinary
+143,93,tran,Warehousing
+144,133,good,Wholesale
+145,142,"good, man, rec",Wine and Spirits
+146,119,tech,Wireless
+147,103,"art, med, rec",Writing and Editing
